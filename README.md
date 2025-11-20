@@ -47,5 +47,3 @@ Choose option: 1
 --- Your Tasks ---
 1. Finish assignment
 2. Read C++ book
----
-
