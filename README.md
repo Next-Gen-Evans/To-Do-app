@@ -47,3 +47,11 @@ Choose option: 1
 --- Your Tasks ---
 1. Finish assignment
 2. Read C++ book
+
+---
+
+If you found this helpful, give it a ⭐!
+
+<div align="center">
+
+### 🌟 **Thanks for Visiting!** 🌟
